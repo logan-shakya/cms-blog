@@ -1,0 +1,9 @@
+{
+    "name": "ubuntu/cms_mvc",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    }
+}
